@@ -12,7 +12,16 @@ Repositori ini berisi dokumentasi lengkap dan laporan akhir untuk proyek mata ku
 ## 🏛️ Informasi Akademik
 * **Mata Kuliah:** Embedded System (Sistem Tertanam)
 * **Institusi:** Fakultas Ilmu Komputer, Universitas Brawijaya (FILKOM UB)
-* **Penulis:** Rezky Auliasarie (Teknik Komputer)
+
+---
+
+## 👥 Tim Penyusun
+Proyek ini dikerjakan oleh kelompok yang beranggotakan:
+* Rezky Auliasarie
+* Agatha Triotama
+* Zeyra Rahma Alivia
+* Muhammad Naufal M. R
+* Delvin Nhean Olamina
 
 ---
 
